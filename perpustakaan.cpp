@@ -47,7 +47,7 @@ void perpus() {
             case 2:
                 cout << "no 2" << endl;
                 cout <<"       Jumlah pinjam buku   	     	: ";cin>>jp;                
-                for(i=1; i<=jp; i++) {
+                for(i=1; i<=jp; i++)
                     cout<<endl;
         
                     cout <<"       =========================================== \n";
